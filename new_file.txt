@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Pesho e kalaf *-
+=======
+Pesho e kalaf @№
+>>>>>>> 7f4b7be9ab566dd98c09a447dd0029f0410133d0
