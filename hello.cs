@@ -10,7 +10,7 @@ namespace Git__GitHub___Exercises
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello");
+            Console.WriteLine("Hello World!");
             
         }
     }
